@@ -1,2 +1,1 @@
-# camelCaseConvApp
-Working on my first app and discovering GitHub
+// don't bother reading, this is a test
